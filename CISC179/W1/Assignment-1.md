@@ -1,7 +1,7 @@
-##This is my assignment 1 code
+This is my assignment 1 code
 
-'''Python
+```Python
 
 print("This is assignment 1")
 
-'''
+```
